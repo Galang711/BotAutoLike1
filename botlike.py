@@ -19,8 +19,8 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 i = 0
 c_text = """❂•••••••••••••AUTO LIKE BY•••••••••••••❂
-                  https://line.me/R/ti/p/%40iya4481p
-『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』"""
+                   http://line.me/ti/p/Bq6y9T1qin
+?BY:Laut Berdasi"""
 
 KAC = [cl]
 mid = cl.getProfile().mid
@@ -34,9 +34,11 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':False,
-    'message':"❂••••••••••••••••••••••••••❂ https://line.me/R/ti/p/%40iya4481p『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
+    'message':"❂••••••••••••••••••••••••••❂  http://line.me/ti/p/Bq6y9T1qin
+?BY:Laut Berdasi",
     "lang":"JP",
-    "comment":"❂••••••••••••••••••••••••••❂ https://line.me/R/ti/p/%40iya4481p『⊰์◉⊱ᎢᎬᎪᎷ ᏴᏞᎪᏟᏦ ❂Ғ ᏀᎪᎷᎬᎡ⊰์◉⊱』",
+    "comment":"❂••••••••••••••••••••••••••❂ http://line.me/ti/p/Bq6y9T1qin
+?BY:Laut Berdasi",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
