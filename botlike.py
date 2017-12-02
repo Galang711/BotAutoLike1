@@ -20,7 +20,7 @@ sys.setdefaultencoding('utf-8')
 i = 0
 c_text = """❂•••••••••••••AUTO LIKE BY•••••••••••••❂
                    http://line.me/ti/p/Bq6y9T1qin
-?BY:Laut Berdasi"""
+BY:Laut Berdasi"""
 
 KAC = [cl]
 mid = cl.getProfile().mid
@@ -35,10 +35,10 @@ wait = {
     'timeline':True,
     'autoAdd':False,
     'message':"❂••••••••••••••••••••••••••❂  http://line.me/ti/p/Bq6y9T1qin
-?BY:Laut Berdasi",
+BY:Laut Berdasi",
     "lang":"JP",
     "comment":"❂••••••••••••••••••••••••••❂ http://line.me/ti/p/Bq6y9T1qin
-?BY:Laut Berdasi",
+BY:Laut Berdasi",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
